@@ -1,0 +1,10 @@
+body{
+    min-height: 2000px;
+}
+.jumbotron {
+    background-color: #6666;
+}
+
+.text-white{
+    background:#666666;
+}
